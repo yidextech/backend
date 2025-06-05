@@ -2,8 +2,6 @@
 
 Node.js + Express REST API to manage tasks. It's all in-memory, no database
 
----
-
 ##  What it does
 
 - Add a new task with a title
@@ -13,7 +11,6 @@ Node.js + Express REST API to manage tasks. It's all in-memory, no database
 - Delete tasks
 - Title gets validated (can’t be empty)
 
----
 ## Installation
 
 ### 1. Clone repository
