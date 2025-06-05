@@ -19,7 +19,7 @@ Node.js + Express REST API to manage tasks. It's all in-memory, no database
 ### 1. Clone or download this repo
 
 ```bash
-git clone https://github.com/yidextech/backend.git
+git clone https://github.com/yidextech/task-manager-api.git
 cd task-manager-api/backend
 
 ```
