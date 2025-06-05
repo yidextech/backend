@@ -1,10 +1,10 @@
-# 🧰 Task Manager API
+#  Task Manager API
 
 Node.js + Express REST API to manage tasks. It's all in-memory, no database
 
 ---
 
-## ✨ What it does
+##  What it does
 
 - Add a new task with a title
 - See all tasks
@@ -15,7 +15,6 @@ Node.js + Express REST API to manage tasks. It's all in-memory, no database
 
 ---
 
-## 🛠️ Getting started
 
 ### 1. Clone or download this repo
 
