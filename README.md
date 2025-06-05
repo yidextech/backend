@@ -1,6 +1,6 @@
 # 🧰 Task Manager API
 
-Just a small Node.js + Express REST API to manage some basic tasks. It's all in-memory, no database setup
+Node.js + Express REST API to manage tasks. It's all in-memory, no database
 
 ---
 
