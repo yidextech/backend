@@ -23,15 +23,15 @@ Just a small Node.js + Express REST API to manage some basic tasks. It's all in-
 git clone https://github.com/yidextech/task-manager-api.git
 cd task-manager-api/backend
 
+```
 
 ### 2. Install dependencies
-
 ```bash
 npm install
-
+```
 ### 3. Run the server
 ```bash
 node index.js
 Server will start on http://localhost:3000
-
+```
 
