@@ -14,9 +14,9 @@ Node.js + Express REST API to manage tasks. It's all in-memory, no database
 - Title gets validated (can’t be empty)
 
 ---
+## Installation
 
-
-### 1. Clone or download this repo
+### 1. Clone repository
 
 ```bash
 git clone https://github.com/yidextech/backend.git
